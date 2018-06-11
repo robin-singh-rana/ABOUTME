@@ -1,0 +1,22 @@
+body{
+	background-color:black;
+	margin: 60px auto;
+    width: 70%;
+}
+
+li{
+	display:inline;
+	margin-right:20px;
+}
+
+.use{
+	color:green;
+}
+
+footer{
+	border-top:3px solid green;
+}
+
+.no{
+	text-decoration:none;
+}
