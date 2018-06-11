@@ -1,6 +1,7 @@
 body{
 	background-image:url(intro.png);
 	background-color:black;
+	opacity:0.5;
 	margin: 60px auto;
     width: 70%;
 }
